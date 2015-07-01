@@ -1,0 +1,19 @@
+{
+    "username": "ahujaa@usc.edu", 
+    "environment": "production", 
+    "project_name": "foundation", 
+    "workspace": "/Users/anjali.ahuja/Desktop/project/", 
+    "org_url": "", 
+    "namespace": "a94", 
+    "id": "UMK1SUO9OZZACN3F8JMFFQPS0ZANIO5Y", 
+    "metadata_container": "1dc1a000000R2tQAAS", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}

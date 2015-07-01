@@ -1,0 +1,67 @@
+{
+    "ExpenseController.cls": {
+        "createdById": "0051a000000jIptAAE", 
+        "createdByName": "Anjali Ahuja", 
+        "createdDate": "2015-06-19 09:18:56", 
+        "fileName": "unpackaged/classes/ExpenseController.cls", 
+        "fullName": "ExpenseController", 
+        "id": "01p1a000002Fp6uAAC", 
+        "lastModifiedById": "0051a000000jIptAAE", 
+        "lastModifiedByName": "Anjali Ahuja", 
+        "lastModifiedDate": "2015-06-30 13:49:34", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }, 
+    "MyApexClass.cls": {
+        "createdById": "0051a000000jIptAAE", 
+        "createdByName": "Anjali Ahuja", 
+        "createdDate": "2015-07-01 09:02:03", 
+        "fileName": "unpackaged/classes/MyApexClass.cls", 
+        "fullName": "MyApexClass", 
+        "id": "01p1a000002GFM1AAO", 
+        "lastModifiedById": "0051a000000jIptAAE", 
+        "lastModifiedByName": "Anjali Ahuja", 
+        "lastModifiedDate": "2015-07-01 09:02:03", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }, 
+    "SDS017.resource": {
+        "createdById": "0051a000000jIptAAE", 
+        "createdByName": "Anjali Ahuja", 
+        "createdDate": "2015-06-12 10:24:56", 
+        "fileName": "unpackaged/staticresources/SDS017.resource", 
+        "fullName": "SDS017", 
+        "id": "0811a0000009cwzAAA", 
+        "lastModifiedById": "0051a000000jIptAAE", 
+        "lastModifiedByName": "Anjali Ahuja", 
+        "lastModifiedDate": "2015-06-12 10:24:56", 
+        "mmState": "clean", 
+        "type": "StaticResource"
+    }, 
+    "SDSapplicationExpenseController.cls": {
+        "createdById": "0051a000000jIptAAE", 
+        "createdByName": "Anjali Ahuja", 
+        "createdDate": "2015-06-24 12:46:12", 
+        "fileName": "unpackaged/classes/SDSapplicationExpenseController.cls", 
+        "fullName": "SDSapplicationExpenseController", 
+        "id": "01p1a000002G6IRAA0", 
+        "lastModifiedById": "0051a000000jIptAAE", 
+        "lastModifiedByName": "Anjali Ahuja", 
+        "lastModifiedDate": "2015-06-30 13:49:35", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }, 
+    "sds034.resource": {
+        "createdById": "0051a000000jIptAAE", 
+        "createdByName": "Anjali Ahuja", 
+        "createdDate": "2015-06-30 13:33:33", 
+        "fileName": "unpackaged/staticresources/sds034.resource", 
+        "fullName": "sds034", 
+        "id": "0811a0000009nphAAA", 
+        "lastModifiedById": "0051a000000jIptAAE", 
+        "lastModifiedByName": "Anjali Ahuja", 
+        "lastModifiedDate": "2015-06-30 13:33:33", 
+        "mmState": "clean", 
+        "type": "StaticResource"
+    }
+}

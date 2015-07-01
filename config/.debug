@@ -1,0 +1,15 @@
+{
+    "levels": {
+        "Workflow": "INFO", 
+        "Callout": "INFO", 
+        "System": "DEBUG", 
+        "Database": "INFO", 
+        "ApexCode": "DEBUG", 
+        "Validation": "INFO", 
+        "Visualforce": "INFO"
+    }, 
+    "users": [
+        "0051a000000jIptAAE"
+    ], 
+    "expiration": 480
+}
